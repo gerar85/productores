@@ -619,7 +619,7 @@ hr {
 #home-merchant {
     position: relative;
     height: 776px;
-    background-image: url(/Users/gerardogrosso/the_odin_project/productores/images/fields.jpg);
+    background-image: url(images/fields.jpg);
     background-size: cover;
     padding: 33px 0 0 0;
     
@@ -642,7 +642,7 @@ hr {
 #home-consumer {
     position: relative;
     height: 776px;
-    background-image: url(/Users/gerardogrosso/the_odin_project/productores/images/wheat.jpg);
+    background-image: url(images/wheat.jpg);
     background-size: cover;
     padding: 201px 0 0 0
 }
@@ -650,7 +650,7 @@ hr {
 #home-developer {
     position: relative;
     height: 776px;
-    background-image: url(/Users/gerardogrosso/the_odin_project/productores/images/handshake.jpg);
+    background-image: url(images/handshake.jpg);
     background-size: cover;
     padding: 201px 0 0 0
 }
