@@ -619,7 +619,7 @@ hr {
 #home-merchant {
     position: relative;
     height: 776px;
-    background-image: url(./images/fields.jpg);
+    background-image: url(/images/fields.jpg);
     background-size: cover;
     padding: 33px 0 0 0;
     
