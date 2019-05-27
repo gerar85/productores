@@ -698,7 +698,7 @@ hr {
 #leadin-contact {
     position: relative;
     height: 300px;
-    background-image: url(images/grains.jpeg);
+    background-image: url(/images/grains.jpeg);
     background-size: cover;
     padding: 33px 101px 0 101px
 }
@@ -718,7 +718,7 @@ hr {
 #leadin {
     position: relative;
     height: 776px;
-    background-image: url(images/grains.jpeg);
+    background-image: url(/images/grains.jpeg);
     background-size: cover;
     padding: 33px 101px 0 101px
 }
