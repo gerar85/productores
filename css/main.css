@@ -642,7 +642,7 @@ hr {
 #home-consumer {
     position: relative;
     height: 776px;
-    background-image: url(/images/wheat.jpg);
+    background-image: url(../images/wheat.jpg);
     background-size: cover;
     padding: 201px 0 0 0
 }
@@ -650,7 +650,7 @@ hr {
 #home-developer {
     position: relative;
     height: 776px;
-    background-image: url(/images/handshake.jpg);
+    background-image: url(../images/handshake.jpg);
     background-size: cover;
     padding: 201px 0 0 0
 }
