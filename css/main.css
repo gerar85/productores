@@ -619,7 +619,7 @@ hr {
 #home-merchant {
     position: relative;
     height: 776px;
-    background-image: url(images/fields.jpg);
+    background-image: url(/images/fields.jpg);
     background-size: cover;
     padding: 33px 0 0 0;
     
@@ -642,7 +642,7 @@ hr {
 #home-consumer {
     position: relative;
     height: 776px;
-    background-image: url(images/wheat.jpg);
+    background-image: url(/images/wheat.jpg);
     background-size: cover;
     padding: 201px 0 0 0
 }
@@ -650,7 +650,7 @@ hr {
 #home-developer {
     position: relative;
     height: 776px;
-    background-image: url(images/handshake.jpg);
+    background-image: url(/images/handshake.jpg);
     background-size: cover;
     padding: 201px 0 0 0
 }
@@ -1589,7 +1589,7 @@ hr {
 #consumer-leadin {
     position: relative;
     height: 768px;
-    background-image: url(images/grains.jpeg);
+    background-image: url(/images/grains.jpeg);
     background-size: cover;
     padding: 33px 101px 0 101px;
     text-align: center
